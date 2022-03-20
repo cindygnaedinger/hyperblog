@@ -4,12 +4,9 @@ Cómo contamos las historias tiene que ver con los lugares donde suceden.
 
 Los lugares nos modifican.
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
 
 Experimento 1
 Master 1
->>>>>>> 04ceef2 (Ex 1)
